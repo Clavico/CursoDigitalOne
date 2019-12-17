@@ -5,7 +5,11 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\U002023\source\repos\CursoMVC\CursoAPI\CursoAPI.xml</DocumentationFile>
+    <DocumentationFile>C:\Users\Short\source\repos\CursoDigitalOne\CursoAPI\CursoAPI.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\Short\source\repos\CursoDigitalOne\CursoAPI\CursoAPI.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
