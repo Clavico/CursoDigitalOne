@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{AAFC34BC-9FB0-49D7-809D-4F9A285D8C83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{8008AC7C-FC09-4BB1-9454-F068A530C1FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTest", "CursoTest\CursoTest.csproj", "{2B36A5F0-BE3D-4E30-9AF1-826B513EAAE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFC34BC-9FB0-49D7-809D-4F9A285D8C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFC34BC-9FB0-49D7-809D-4F9A285D8C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFC34BC-9FB0-49D7-809D-4F9A285D8C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFC34BC-9FB0-49D7-809D-4F9A285D8C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8008AC7C-FC09-4BB1-9454-F068A530C1FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8008AC7C-FC09-4BB1-9454-F068A530C1FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8008AC7C-FC09-4BB1-9454-F068A530C1FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8008AC7C-FC09-4BB1-9454-F068A530C1FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B36A5F0-BE3D-4E30-9AF1-826B513EAAE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B36A5F0-BE3D-4E30-9AF1-826B513EAAE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B36A5F0-BE3D-4E30-9AF1-826B513EAAE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B36A5F0-BE3D-4E30-9AF1-826B513EAAE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E981142E-C115-445A-9E2A-51756C207A5E}
+	EndGlobalSection
+EndGlobal
